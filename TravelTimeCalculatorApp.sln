@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TravelTimeCalculatorApp", "TravelTimeCalculatorApp\TravelTimeCalculatorApp.vbproj", "{2DFD89A1-184E-4B7E-B14F-E96938282A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFD89A1-184E-4B7E-B14F-E96938282A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFD89A1-184E-4B7E-B14F-E96938282A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFD89A1-184E-4B7E-B14F-E96938282A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFD89A1-184E-4B7E-B14F-E96938282A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415C438A-BF8E-4DAD-9C60-ECF5E2CBDA4F}
+	EndGlobalSection
+EndGlobal
